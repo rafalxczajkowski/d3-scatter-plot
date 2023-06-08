@@ -9,3 +9,8 @@ Dataset used to complete this project: `https://raw.githubusercontent.com/freeCo
 
 ## Usage
 1. Open the application in your browser by opening index.html
+
+or  
+
+1. Visit app here:  
+https://rafalxczajkowski.github.io/d3-scatter-plot/
